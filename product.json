@@ -1,0 +1,20 @@
+[
+    {
+        "slug":"001A",
+        "category": "Golosina",
+        "name": "Galleta Oreo",
+        "price": 4
+    },
+    {
+        "slug":"002A",
+        "category": "Chocolates",
+        "name": "Doblón",
+        "price": 4
+    },
+    {
+        "slug":"003A",
+        "category": "Chocolates",
+        "name": "Sublime",
+        "price": 14
+    }
+]
